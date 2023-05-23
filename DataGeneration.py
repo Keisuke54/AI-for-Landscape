@@ -44,7 +44,6 @@ for num in range(1):
         if i%5 == 4:
             time.sleep(60)
 
-
 prompt2 = [x for x in prompts if x != ""]
 print(len(prompt2))
 print(prompt2)
