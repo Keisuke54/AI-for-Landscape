@@ -3,7 +3,7 @@
 import numpy as np
 import tensorflow as tf
 
-from conversation import conversation
+from conversation2 import conversation
 
 Sequential = tf.keras.models.Sequential
 
