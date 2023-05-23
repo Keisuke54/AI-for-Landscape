@@ -1,4 +1,4 @@
-# Work was done in Kaggle: https://www.kaggle.com/code/keisukenakamura54/composition-classificaiton-modified
+# Code was run in Kaggle: https://www.kaggle.com/code/keisukenakamura54/composition-classificaiton-modified
 # Use GPU or TPU
 
 import numpy as np
