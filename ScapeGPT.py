@@ -54,9 +54,9 @@ for object in detected:
     count = detected.count(object)
     if z == len(detected):
         if count == 1:
-            detResult += str(count) + ' ' + object + '.'
+            detResult += str(count) + ' ' + object
         else: 
-            detResult += str(count) + ' ' + object + 's.'
+            detResult += str(count) + ' ' + object
     else:
         if count == 1:
             detResult += str(count) + ' ' + object + ', '
