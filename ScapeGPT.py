@@ -13,7 +13,7 @@ import requests
  
 # insert your image link here 
 # Example
-response = requests.get('https://deepstackpython.readthedocs.io/en/latest/_images/test-image3.jpg')
+response = requests.get('https://img5.goodfon.com/wallpaper/nbig/f/f0/lake-clark-national-park-alaska-les-gory-derevia-reka-medved.jpg')
 #response = requests.get('https://wallpaperaccess.com/full/4933291.jpg')
 image = Image.open(BytesIO(response.content))
 image = np.asarray(image)
