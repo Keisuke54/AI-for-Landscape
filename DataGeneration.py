@@ -2,7 +2,7 @@ import cohere
 import time
 
 # API key 
-co = cohere.Client('VgR2hXk1OC9UOiTWFYE1rTodw1GkT7xYKI6MsLIS') 
+co = cohere.Client('your API key') 
 
 qList = ['How can I draw landscape?', 
          'How can I start drawing landcape elements like trees?', 
